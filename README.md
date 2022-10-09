@@ -1,2 +1,2 @@
-# coursera_AI_Developer
+# Coursera AI Developer
 DeepLearning.AI TensorFlow Developer Professional Certificate
